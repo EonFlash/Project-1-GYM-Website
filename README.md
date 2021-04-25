@@ -1,4 +1,4 @@
 # Project-1-GYM-Website
-This is my first website. NOTE- This is only the frontend
+This is my first website.
 
-https://eonflash.github.io/Project-1-GYM-Website/
+Visit the site [**`here`**](https://eonflash.github.io/Project-1-GYM-Website/)
